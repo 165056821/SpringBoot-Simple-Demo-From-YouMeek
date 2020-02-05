@@ -11,9 +11,9 @@ server:
 
 spring:
   datasource: 
-    url: jdbc:mysql://127.0.0.1:3306/springboot_demo?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=utf-8&characterSetResults=UTF-8&autoReconnect=true&allowMultiQueries=true&useSSL=false
+    url: jdbc:mysql://192.168.10.26:3306/springboot_demodb?rewriteBatchedStatements=true&useUnicode=true&characterEncoding=utf-8&characterSetResults=UTF-8&autoReconnect=true&allowMultiQueries=true&useSSL=false
     username: root
-    password: 123456
+    password: jkgly@163.coM@26
 
 
 #=================================================================================
